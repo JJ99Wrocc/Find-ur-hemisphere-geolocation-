@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Find-ur-hemisphere-geolocation-/static/css/main.abf7cc24.css",
-    "main.js": "/Find-ur-hemisphere-geolocation-/static/js/main.9942bde1.js",
-    "static/media/northern-hemisphere.png": "/Find-ur-hemisphere-geolocation-/static/media/northern-hemisphere.3120662e0ebf20579f24.png",
-    "static/media/southern-hemisphere.png": "/Find-ur-hemisphere-geolocation-/static/media/southern-hemisphere.bd1a744dcbd4a960804d.png",
-    "index.html": "/Find-ur-hemisphere-geolocation-/index.html",
-    "main.abf7cc24.css.map": "/Find-ur-hemisphere-geolocation-/static/css/main.abf7cc24.css.map",
-    "main.9942bde1.js.map": "/Find-ur-hemisphere-geolocation-/static/js/main.9942bde1.js.map"
+    "main.css": "/Geolocation/static/css/main.abf7cc24.css",
+    "main.js": "/Geolocation/static/js/main.248b42a8.js",
+    "static/media/northern-hemisphere.png": "/Geolocation/static/media/northern-hemisphere.3120662e0ebf20579f24.png",
+    "static/media/southern-hemisphere.png": "/Geolocation/static/media/southern-hemisphere.bd1a744dcbd4a960804d.png",
+    "index.html": "/Geolocation/index.html",
+    "main.abf7cc24.css.map": "/Geolocation/static/css/main.abf7cc24.css.map",
+    "main.248b42a8.js.map": "/Geolocation/static/js/main.248b42a8.js.map"
   },
   "entrypoints": [
     "static/css/main.abf7cc24.css",
-    "static/js/main.9942bde1.js"
+    "static/js/main.248b42a8.js"
   ]
 }
